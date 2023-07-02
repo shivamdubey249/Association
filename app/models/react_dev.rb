@@ -1,0 +1,2 @@
+class ReactDev < Employee
+end
